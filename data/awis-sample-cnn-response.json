@@ -1,0 +1,178 @@
+{
+    "Awis": {
+        "OperationRequest": {
+            "RequestId": "07262bfb-4735-4800-b51c-aa812d0e18d0"
+        },
+        "Results": {
+            "Result": {
+                "Alexa": {
+                    "Request": {
+                        "Arguments": {
+                            "Argument": [
+                                {
+                                    "Name": "url",
+                                    "Value": "cnn.com"
+                                },
+                                {
+                                    "Name": "responsegroup",
+                                    "Value": "Rank,RankByCountry,AdultContent,Language,LinksInCount,SiteData"
+                                }
+                            ]
+                        }
+                    },
+                    "ContentData": {
+                        "DataUrl": "cnn.com/",
+                        "SiteData": {
+                            "Title": "CNN - Cable News Network",
+                            "Description": "News, weather, sports, and services including e-mail news alerts and downloadable audio/video reports."
+                        },
+                        "AdultContent": "no",
+                        "Language": {
+                            "Locale": "en"
+                        },
+                        "LinksInCount": "112172"
+                    },
+                    "TrafficData": {
+                        "DataUrl": "cnn.com/",
+                        "Rank": "79",
+                        "RankByCountry": {
+                            "Country": [
+                                {
+                                    "@Code": "IN",
+                                    "Rank": "362",
+                                    "Contribution": {
+                                        "PageViews": "2.2%",
+                                        "Users": "2.5%"
+                                    }
+                                },
+                                {
+                                    "@Code": "EG",
+                                    "Rank": "252",
+                                    "Contribution": {
+                                        "PageViews": "0.5%",
+                                        "Users": "0.6%"
+                                    }
+                                },
+                                {
+                                    "@Code": "SG",
+                                    "Rank": "103",
+                                    "Contribution": {
+                                        "PageViews": "0.6%",
+                                        "Users": "0.6%"
+                                    }
+                                },
+                                {
+                                    "@Code": "TW",
+                                    "Rank": "263",
+                                    "Contribution": {
+                                        "PageViews": "0.6%",
+                                        "Users": "0.7%"
+                                    }
+                                },
+                                {
+                                    "@Code": "US",
+                                    "Rank": "22",
+                                    "Contribution": {
+                                        "PageViews": "72.6%",
+                                        "Users": "69.9%"
+                                    }
+                                },
+                                {
+                                    "@Code": "AU",
+                                    "Rank": "142",
+                                    "Contribution": {
+                                        "PageViews": "1.0%",
+                                        "Users": "1.1%"
+                                    }
+                                },
+                                {
+                                    "@Code": "SA",
+                                    "Rank": "202",
+                                    "Contribution": {
+                                        "PageViews": "0.5%",
+                                        "Users": "0.6%"
+                                    }
+                                },
+                                {
+                                    "@Code": "CH",
+                                    "Rank": "98",
+                                    "Contribution": {
+                                        "PageViews": "0.5%",
+                                        "Users": "0.5%"
+                                    }
+                                },
+                                {
+                                    "@Code": "NG",
+                                    "Rank": "115",
+                                    "Contribution": {
+                                        "PageViews": "0.7%",
+                                        "Users": "0.8%"
+                                    }
+                                },
+                                {
+                                    "@Code": "GB",
+                                    "Rank": "252",
+                                    "Contribution": {
+                                        "PageViews": "0.5%",
+                                        "Users": "0.6%"
+                                    }
+                                },
+                                {
+                                    "@Code": "KR",
+                                    "Rank": "394",
+                                    "Contribution": {
+                                        "PageViews": "0.5%",
+                                        "Users": "0.8%"
+                                    }
+                                },
+                                {
+                                    "@Code": "MX",
+                                    "Rank": "106",
+                                    "Contribution": {
+                                        "PageViews": "1.4%",
+                                        "Users": "1.6%"
+                                    }
+                                },
+                                {
+                                    "@Code": "CA",
+                                    "Rank": "44",
+                                    "Contribution": {
+                                        "PageViews": "5.1%",
+                                        "Users": "4.5%"
+                                    }
+                                },
+                                {
+                                    "@Code": "JP",
+                                    "Rank": "491",
+                                    "Contribution": {
+                                        "PageViews": "1.8%",
+                                        "Users": "1.7%"
+                                    }
+                                },
+                                {
+                                    "@Code": "O",
+                                    "Rank": null,
+                                    "Contribution": {
+                                        "PageViews": "10.6%",
+                                        "Users": "12.6%"
+                                    }
+                                },
+                                {
+                                    "@Code": "DE",
+                                    "Rank": "279",
+                                    "Contribution": {
+                                        "PageViews": "0.8%",
+                                        "Users": "0.9%"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "ResponseStatus": {
+                "StatusCode": "200"
+            }
+        }
+    }
+}
